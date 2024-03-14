@@ -102,7 +102,7 @@ plotly==5.8.0
 prometheus-client==0.14.1
 prompt-toolkit==3.0.29
 proto-plus==1.23.0
-protobuf==3.20.0
+protobuf
 psutil==5.9.1
 pure-eval==0.2.2
 pyarrow==8.0.0
